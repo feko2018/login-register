@@ -1,2 +1,6 @@
-# Created by .ignore support plugin (hsz.mobi)
-test007
+.gitignore
+venv
+.idea
+settings.py
+db.sqlite3
+__pycache__
